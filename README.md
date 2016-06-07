@@ -31,7 +31,7 @@ How to build and run this microservice
 
 How to copy and extend this microservice
 ----------------------------------------
-To copy and extends the template you need to copy and then edit a few key files.
+To use this template you need to copy and then edit a few key files.
 
 1. Make a new directory and copy the template
 
