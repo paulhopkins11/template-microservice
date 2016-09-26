@@ -49,7 +49,7 @@ To use this template you need to copy and then edit a few key files.
 3. Edit Dockerfile and change the jar file name on the ADD instruction
 
    ```
-   ADD target/simpleservice-0.0.1-SNAPSHOT.jar app.jar
+   ADD target/simpleservice-0.0.2-SNAPSHOT.jar app.jar
    ```
 4. Compile and package the application
 
