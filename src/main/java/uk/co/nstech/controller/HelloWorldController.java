@@ -1,4 +1,4 @@
-package uk.co.frameworktraining.controller;
+package uk.co.nstech.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping("/")
 	@ResponseBody
 	String home() {
-		return "Success! The Framework Training template microservices is up and running";
+		return "Success!";
 	}
 }
